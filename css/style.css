@@ -22,12 +22,13 @@ h2{
 .half-width img{
     width: 70%;
 }
-.haire-me{
+.hire-me{
     background-image: linear-gradient(orange, tomato);
     text-decoration: none;
     padding: 10px 40px;
     font-weight: 700;
     border-radius: 5px;
+    text-transform: uppercase;
 }
 .top-banner{
     background-image: url(../images/top-banner.png);
@@ -39,6 +40,7 @@ h2{
     text-decoration: none;
     font-weight: 700;
     border-radius: 5px;
+    text-transform: uppercase;
 }
 
 .dream-big{
